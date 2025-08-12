@@ -1,10 +1,12 @@
 ### Hi there! 👋
 
 <br />
-<br />
 
+<img align="right" width="40%" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A0OHBkbzVtZXB3NmR0NzRmbHR5N3drcmJ6Z3RxNzdiYm5kamFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rSCVJasn8uZP2/giphy.gif" />
+
+<p align="left" width="50%">
 I'm Ethan Enkhbat, a senior student at Albion College majoring in Mathematics and Physics. I have been writing code since middle school, and have experience in competitive programming, backend servers, and devops practices. I'm interested in robotics, mechatronical engineering and embedded softwares. Fun fact: I think arduinos are overrated.
-  <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A0OHBkbzVtZXB3NmR0NzRmbHR5N3drcmJ6Z3RxNzdiYm5kamFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rSCVJasn8uZP2/giphy.gif" />
+</p>
   
 **Some stuff about me:**
 
