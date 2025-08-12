@@ -27,9 +27,15 @@ Hi, I'm Ethan Enkhbat, a senior in Mathematics and Physics at Albion College.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<summary>
+  Pinned Projects
+</summary>
 
+<br />
 
-![tushigsama's github stats](https://github-readme-stats.vercel.app/api?username=tushigsama&show_icons=true&hide_border=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tushigsama&repo=ford-robot-arm)](https://github.com/tushigsama/ford-robot-arm)
 
-⭐️ From [tushigsama](https://github.com/tushigsama)
+<br />
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 
