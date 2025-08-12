@@ -4,7 +4,7 @@
 <br />
 
 Hi, I'm Ethan Enkhbat, a senior in Mathematics and Physics at Albion College.
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A0OHBkbzVtZXB3NmR0NzRmbHR5N3drcmJ6Z3RxNzdiYm5kamFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rSCVJasn8uZP2/giphy.gif" />
   
 **Some stuff about me:**
 
